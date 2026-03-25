@@ -252,10 +252,10 @@ This project is for educational and personal use. You can modify and use it as p
 
 ## 👨‍💻 Author
 
-**Developed by Aashish Joshi**
+**Developed by Rakesh Kumar Lohani**
 - 📅 B.Tech CSE Student
 - 💡 Passionate about AI & Web Development
-- 🌐 [AAs6395](https://github.com/AAs6395)
+- 🌐 [Rakesh965686](https://github.com/Rakesh95686)
 
 ---
 
